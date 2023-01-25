@@ -1,8 +1,6 @@
 package br.com.alura.loja.imposto.sem_strategy;
 
-import br.com.alura.loja.imposto.sem_strategy.CalculadoraDeImpostos;
-import br.com.alura.loja.imposto.sem_strategy.TipoImposto;
-import br.com.alura.loja.orcamento.Orcamento;
+import br.com.alura.loja.orcamento.without_state.Orcamento;
 
 import java.math.BigDecimal;
 
